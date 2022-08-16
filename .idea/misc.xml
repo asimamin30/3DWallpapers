@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/9D_Wallpaper/9DWallpapers/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.3263888888888889" />
+        <entry key="..\:/9D_Wallpaper/9DWallpapers/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.3219178082191781" />
+        <entry key="..\:/9D_Wallpaper/9DWallpapers/app/src/main/res/drawable/search.xml" value="0.3219178082191781" />
+        <entry key="..\:/9D_Wallpaper/9DWallpapers/app/src/main/res/layout/activity_full_screen_wallpaper.xml" value="0.25" />
+        <entry key="..\:/9D_Wallpaper/9DWallpapers/app/src/main/res/layout/activity_main.xml" value="0.31203703703703706" />
+        <entry key="..\:/9D_Wallpaper/9DWallpapers/app/src/main/res/layout/image_item.xml" value="0.29259259259259257" />
+        <entry key="..\:/9D_Wallpaper/9DWallpapers/app/src/main/res/menu/main.xml" value="0.29259259259259257" />
+        <entry key="..\:/PublishApps/9D_Wallpaper/9DWallpapers/app/src/main/res/drawable/setwall.xml" value="0.1405" />
+        <entry key="..\:/PublishApps/9D_Wallpaper/9DWallpapers/app/src/main/res/layout/activity_full_screen_wallpaper.xml" value="0.15526315789473685" />
+        <entry key="..\:/PublishApps/9D_Wallpaper/9DWallpapers/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/PublishApps/9D_Wallpaper/9DWallpapers/app/src/main/res/layout/bottom_sheet_dialog_layout.xml" value="0.15526315789473685" />
+        <entry key="..\:/PublishApps/9D_Wallpaper/9DWallpapers/app/src/main/res/layout/image_item.xml" value="0.1" />
+        <entry key="..\:/Users/axim/Desktop/3DWallpapers/app/src/main/res/drawable/borderdesign.xml" value="0.1" />
+        <entry key="..\:/Users/axim/Desktop/3DWallpapers/app/src/main/res/layout/activity_full_screen_wallpaper.xml" value="0.1" />
+        <entry key="..\:/Users/axim/Desktop/3DWallpapers/app/src/main/res/layout/activity_main.xml" value="0.22777777777777777" />
+        <entry key="..\:/Users/axim/Desktop/3DWallpapers/app/src/main/res/layout/image_item.xml" value="0.22777777777777777" />
+        <entry key="..\:/Users/axim/Desktop/3DWallpapers/app/src/main/res/menu/main.xml" value="0.1" />
+        <entry key="..\:/Users/axim/Desktop/9D_Wallpaper/9DWallpapers/app/src/main/res/layout/activity_full_screen_wallpaper.xml" value="0.2956140350877193" />
+        <entry key="..\:/Users/axim/Desktop/9D_Wallpaper/9DWallpapers/app/src/main/res/layout/activity_main.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Search"
+        android:id="@+id/nav_search"
+        android:icon="@drawable/search"
+        app:showAsAction="ifRoom|collapseActionView"
+        app:actionViewClass="androidx.appcompat.widget.SearchView" />
+
+
+
+    <item
+        android:icon="@drawable/ic_baseline_more_vert_24"
+        android:id="@+id/nav_more"
+        android:title="Share"
+        app:showAsAction="always">
+
+<menu>
+    <item
+        android:icon="@drawable/ic_baseline_send_24"
+        android:id="@+id/nav_share"
+        android:title="Share"
+        />
+    <item
+        android:title="Rating"
+        android:id="@+id/nav_Rating"
+        android:icon="@drawable/ic_baseline_star_24"
+
+
+        />
+</menu>
+    </item>
+
+
+
+
+
+</menu>
